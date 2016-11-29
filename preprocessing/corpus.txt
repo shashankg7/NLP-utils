@@ -1,5 +1,0 @@
-First line of text.
-Second line of text.
-Third line of text, also the last line. 
-Thanks!!! 
-cheers :)
